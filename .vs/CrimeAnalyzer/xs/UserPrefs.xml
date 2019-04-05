@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{84117879-F9AF-41A7-90B1-25C1C02CA02B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CrimeAnalyzer/Program.cs">
+    <Files>
+      <File FileName="CrimeAnalyzer/Program.cs" Line="18" Column="24" />
+      <File FileName="CrimeAnalyzer/Reader.cs" Line="26" Column="10" />
+      <File FileName="CrimeAnalyzer/Writer.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CrimeAnalyzer FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
